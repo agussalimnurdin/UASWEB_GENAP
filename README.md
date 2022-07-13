@@ -6,12 +6,12 @@
 App Sistem Antrian Loket
 Link
 
+http://antriansistem.rf.gd/
 
-Demo program
 
 Getting Started
 git clone https://github.com/agussalimnurdin/UASWEB_GENAP.git
-cd lab-uas
+
 open terminal.
 
 php spark serve.

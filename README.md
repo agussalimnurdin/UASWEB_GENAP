@@ -40,3 +40,27 @@ Solutions:
 - Option2: Upgrade Codeigniter
 
 Reference: https://codeigniter.com/user_guide/changelogs/v4.1.7.html
+
+
+# langkah-langkah
+## download xampp dan jalankan apache dan mysql
+
+![gambar 1](screenshot/2.jpg)
+
+ ## kemudian membuat database di mysql nengan nama "antrian"
+
+ ![gambar 1](screenshot/1.jpg)
+
+ ## kemudian buat program di ci4(codeigniter)
+
+ ![gambar 1](screenshot/3.jpg)
+
+ ## kemudian ketik di xampp for windows seperti di bawah ini
+
+ ![gambar 1](screenshot/4.png)
+
+ ## buka browser/googlecrome kemudian ketik localhost:8080
+
+ ![gambar 1](screenshot/5.png)
+
+ THANK YOU SO MUCH

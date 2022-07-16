@@ -6,7 +6,7 @@
 App Sistem Antrian Loket
 Link
 
-http://antriansistem.rf.gd/
+salimnurdin.my.id
 
 
 Getting Started

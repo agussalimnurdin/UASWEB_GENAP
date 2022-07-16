@@ -6,7 +6,7 @@
 App Sistem Antrian Loket
 Link
 
-salimnurdin.my.id
+http://salimnurdin.my.id/
 
 
 Getting Started

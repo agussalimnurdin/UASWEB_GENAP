@@ -63,4 +63,91 @@ Reference: https://codeigniter.com/user_guide/changelogs/v4.1.7.html
 
  ![gambar 1](screenshot/5.png)
 
- THANK YOU SO MUCH
+ ## buat hosting. disini saya pakai rumahweb 
+
+ ![gambar 1](screenshot/6.png)
+
+ ## kemudian buat domain
+
+ ![gambar 1](screenshot/7.jpg)
+
+ ## klik  active
+
+![gambar 1](screenshot/9.jpg)
+
+
+ ## kemudian login to cpanel
+
+ ![gambar 1](screenshot/10.png)
+
+
+ ## masuk file manager
+
+![gambar 1](screenshot/11.jpg)
+
+
+ ## kemudian buat folder baru
+
+![gambar 1](screenshot/12.jpg)
+
+
+ ## dan masukkan file ci4 ke folder baru hasil file yg di pindahkan
+
+![gambar 1](screenshot/13.png)
+
+
+ ## dan file public pindh ke public_html dan rubah nama menjadi salimnurdin.my.id
+ ## buat nama database
+
+![gambar 1](screenshot/14.png)
+
+
+ ## kemudian masuk phpmyadmin dan impor database 
+
+![gambar 1](screenshot/15.png)
+
+
+ ## kemudian rubah nama yg dibawah ini
+
+ ![gambar 1](screenshot/16.png)
+
+
+
+ ## ubah nama yang di block
+
+![gambar 1](screenshot/17.png)
+
+
+## setelah itu masuk link 
+
+http://salimnurdin.my.id/
+
+
+## hasilnya seperti dibawah ini
+
+![gambar 1](screenshot/18.png)
+
+
+## kemudian menu ambil antrian
+
+![gambar 1](screenshot/19.png)
+
+
+## menu layar antrian
+
+![gambar 1](screenshot/20.png)
+
+
+## kemudian menu loket panggil
+
+![gambar 1](screenshot/21.png)
+
+## kemudian menu loket
+
+![gambar 1](screenshot/22.png)
+
+## menu pelayanan 
+
+![gambar 1](screenshot/23.png)
+
+# THANK YOU SO MUCH

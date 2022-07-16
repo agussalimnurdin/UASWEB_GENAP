@@ -4,10 +4,11 @@
 ## Nim     :312010494
 
 App Sistem Antrian Loket
-Link
+Link untuk demo
 
 http://salimnurdin.my.id/
 
+link youtube : https://www.youtube.com/watch?v=N4a8-_CsKsE
 
 Getting Started
 git clone https://github.com/agussalimnurdin/UASWEB_GENAP.git
